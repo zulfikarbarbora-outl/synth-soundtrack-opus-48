@@ -1,0 +1,208 @@
+{
+  "library": "synth-soundtrack",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/synth-soundtrack",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/synth-soundtrack-opus-48",
+  "branch": "main",
+  "fileCount": 15,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/",
+  "files": [
+    {
+      "file": "C2.opus",
+      "name": "C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/C2.opus",
+      "size": 58845,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3.opus",
+      "name": "C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/C3.opus",
+      "size": 57713,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4.opus",
+      "name": "C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/C4.opus",
+      "size": 70159,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5.opus",
+      "name": "C5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/C5.opus",
+      "size": 84324,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6.opus",
+      "name": "C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/C6.opus",
+      "size": 80440,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E2.opus",
+      "name": "E2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/E2.opus",
+      "size": 57814,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E3.opus",
+      "name": "E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/E3.opus",
+      "size": 60646,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4.opus",
+      "name": "E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/E4.opus",
+      "size": 72761,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5.opus",
+      "name": "E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/E5.opus",
+      "size": 78601,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E6.opus",
+      "name": "E6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/E6.opus",
+      "size": 68133,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs2.opus",
+      "name": "Gs2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/Gs2.opus",
+      "size": 54346,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs3.opus",
+      "name": "Gs3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/Gs3.opus",
+      "size": 66734,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs4.opus",
+      "name": "Gs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/Gs4.opus",
+      "size": 81521,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs5.opus",
+      "name": "Gs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/Gs5.opus",
+      "size": 90472,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs6.opus",
+      "name": "Gs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-soundtrack-opus-48/main/Gs6.opus",
+      "size": 81863,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "36": [
+      "C2.opus"
+    ],
+    "40": [
+      "E2.opus"
+    ],
+    "48": [
+      "C3.opus"
+    ],
+    "52": [
+      "E3.opus"
+    ],
+    "60": [
+      "C4.opus"
+    ],
+    "64": [
+      "E4.opus"
+    ],
+    "72": [
+      "C5.opus"
+    ],
+    "76": [
+      "E5.opus"
+    ],
+    "84": [
+      "C6.opus"
+    ],
+    "88": [
+      "E6.opus"
+    ]
+  }
+}
